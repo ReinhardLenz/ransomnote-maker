@@ -4,10 +4,13 @@ import random
 
 fonts = [
     "Aharoni", "Baguet Script", "Britannica Bold", "Courier New", "Daytona",
-    "Elephant", "Forte Forward", "Georgia Pro Black", "Haettenschweiler", "Grotesque"
+    "Elephant", "Forte Forward", "Georgia Pro Black", "Haettenschweiler", 
+    "Grotesque", " Impact", "Jokerman", "Kunstler Script", "Lobster",
+    "Monotype Corsiva", "Papyrus", "Ravie", "Showcard Gothic",
+    "Stencil", "Tempus", "Viner Hand", "Wide Latin", "Zebrawood"
 ]
 
-sizes = [8, 10, 12, 14]
+sizes = [8, 10, 14, 16]
 
 doc = Document("example.docx")
 
